@@ -623,3 +623,115 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.13-20.41.44:830][  0]LogCook: Display: Mobile HDR setting 1
 [2023.01.13-20.41.44:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria/Content/' took 0.01s
 [2023.01.13-20.41.45:110][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.13-20.42.15:410][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.01.13-20.42.15:480][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.956
+[2023.01.13-20.42.15:480][  0]Cmd: MAP LOAD FILE="../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.13-20.42.15:480][  0]LightingResults: New page: Lighting Build
+[2023.01.13-20.42.15:480][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.42.15:480][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.42.15:480][  0]MapCheck: New page: Map Check
+[2023.01.13-20.42.15:480][  0]LightingResults: New page: Lighting Build
+[2023.01.13-20.42.15:492][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D42759A000), frame # 0
+[2023.01.13-20.42.15:492][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D42756FB00), frame # 0
+[2023.01.13-20.42.15:493][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.13-20.42.38:287][  0]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.42.38:287][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D40EF15400), frame # 0
+[2023.01.13-20.42.38:287][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D48AAC6C00), frame # 0
+[2023.01.13-20.42.38:320][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.13-20.42.38:320][  0]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (39002112) to: (1048576)
+[2023.01.13-20.42.38:400][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.01.13-20.42.38:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.13-20.42.38:401][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2023.01.13-20.42.38:401][  0]LogFileHelpers: Loading map 'ALS_DemoLevel' took 22.922
+[2023.01.13-20.42.38:403][  0]LogUnrealEdMisc: Total Editor Startup Time, took 62.880
+[2023.01.13-20.42.38:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.42.38:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.42.38:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.42.38:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.42.38:459][  0]LogCollectionManager: Loaded 0 collections in 0.001097 seconds
+[2023.01.13-20.42.38:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/Collections/' took 0.00s
+[2023.01.13-20.42.38:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria/Content/Developers/minec/Collections/' took 0.00s
+[2023.01.13-20.42.38:471][  0]LogFileCache: Scanning file cache for directory 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria/Content/Collections/' took 0.00s
+[2023.01.13-20.42.38:471][  0]LogContentBrowser: Native class hierarchy populated in 0.0055 seconds. Added 3491 classes and 853 folders.
+[2023.01.13-20.42.38:476][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.01.13-20.42.38:501][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.01.13-20.42.38:505][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2023.01.13-20.42.38:588][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.13-20.42.38:590][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.13-20.42.38:613][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2023.01.13-20.42.38:665][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.01.13-20.42.38:666][  0]LogLoad: (Engine Initialization) Total time: 63.14 seconds
+[2023.01.13-20.42.38:666][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.13-20.42.38:695][  0]LogAssetRegistry: Asset discovery search completed in 60.6202 seconds
+[2023.01.13-20.42.38:696][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.13-20.42.38:705][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.13-20.42.38:733][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.13-20.42.38:746][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria/Content/' took 0.07s
+[2023.01.13-20.42.38:912][  2]Cmd: ACTOR HIDE SELECTED
+[2023.01.13-20.42.47:757][503]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.42.47:763][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.42.47:763][503]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:42:47 AM)
+[2023.01.13-20.42.47:764][503]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.13-20.42.47:764][503]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.13-20.42.47:764][503]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.43.03:389][503]LogPlayLevel: PIE: StaticDuplicateObject took: (15.624122s)
+[2023.01.13-20.43.03:390][503]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.43.03:390][503]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4C3CA7E00), frame # 503
+[2023.01.13-20.43.03:390][503]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D40CEEE700), frame # 503
+[2023.01.13-20.43.03:390][503]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2023.01.13-20.43.03:390][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (15.624849s)
+[2023.01.13-20.43.03:397][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.43.03:400][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.43.03:400][503]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.43.03:400][503]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.43.03:401][503]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.43.03:401][503]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.43.03:412][503]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.43.03:412][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.43.03:412][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.43.03:412][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.43.03:413][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.43.03:419][503]LogInit: FAudioDevice initialized.
+[2023.01.13-20.43.03:423][503]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.43.03:446][503]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 3) at 2023.01.13-15.43.03
+[2023.01.13-20.43.03:447][503]LogWorld: Bringing up level for play took: 0.023746
+[2023.01.13-20.43.03:447][503]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.01.13-20.43.03:452][503]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.01.13-20.43.03:456][503]PIE: Server logged in
+[2023.01.13-20.43.03:456][503]PIE: Play in editor total start time 15.694 seconds.
+[2023.01.13-20.43.42:738][208]LogSlate: Window 'Source Control Login' being destroyed
+[2023.01.13-20.43.50:083][ 51]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_1] 5.466732
+[2023.01.13-20.43.57:729][967]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.641865
+[2023.01.13-20.44.09:847][421]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.473737
+[2023.01.13-20.44.11:263][591]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 7.275873
+[2023.01.13-20.44.12:264][711]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 4.952975
+[2023.01.13-20.44.20:264][671]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.177218
+[2023.01.13-20.44.21:772][852]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 6.332194
+[2023.01.13-20.44.27:097][491]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.798751
+[2023.01.13-20.44.28:388][646]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.013672
+[2023.01.13-20.44.30:055][846]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.704015
+[2023.01.13-20.44.42:764][371]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 4.896669
+[2023.01.13-20.44.44:048][525]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 6.124476
+[2023.01.13-20.44.45:239][668]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.628639
+[2023.01.13-20.44.48:447][ 53]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 12.350458
+[2023.01.13-20.44.50:690][322]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.572142
+[2023.01.13-20.44.53:546][664]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.601322
+[2023.01.13-20.44.54:888][825]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 5.355622
+[2023.01.13-20.44.55:780][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.44.55:780][928]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.44.55:781][928]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.44.55:781][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.44.55:791][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-20.44.55:792][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.44.55:798][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.44.55:810][928]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D40CEEE700), frame # 9928
+[2023.01.13-20.44.55:810][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4C3CA7E00), frame # 9928
+[2023.01.13-20.44.55:842][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.13-20.44.55:858][929]LogPlayLevel: Display: Destroying online subsystem :Context_3
