@@ -735,3 +735,430 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.13-20.44.55:810][928]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4C3CA7E00), frame # 9928
 [2023.01.13-20.44.55:842][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2023.01.13-20.44.55:858][929]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ControlRig/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ControlRig/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:198][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/PowerIK/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Marketplace/PowerIK/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:199][ 19]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/minec/Documents/GitHub/UE4.25Euphoria'
+[2023.01.13-20.49.08:264][ 19]EditorErrors: Warning: No assets to check in!
+[2023.01.13-20.49.18:814][246]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.49.18:820][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.49.18:820][246]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:49:18 AM)
+[2023.01.13-20.49.18:850][246]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.49.33:009][246]LogPlayLevel: PIE: StaticDuplicateObject took: (14.158118s)
+[2023.01.13-20.49.33:010][246]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.49.33:010][246]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D49A64C600), frame # 13246
+[2023.01.13-20.49.33:010][246]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D40D0E6840), frame # 13246
+[2023.01.13-20.49.33:010][246]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2023.01.13-20.49.33:010][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (14.159079s)
+[2023.01.13-20.49.33:017][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.49.33:018][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.49.33:018][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.49.33:020][246]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.49.33:020][246]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.49.33:022][246]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.49.33:022][246]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.49.33:033][246]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.49.33:033][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.49.33:033][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.49.33:033][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.49.33:033][246]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.49.33:038][246]LogInit: FAudioDevice initialized.
+[2023.01.13-20.49.33:040][246]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.49.33:067][246]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 3) at 2023.01.13-15.49.33
+[2023.01.13-20.49.33:068][246]LogWorld: Bringing up level for play took: 0.025910
+[2023.01.13-20.49.33:068][246]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.01.13-20.49.33:072][246]PIE: Server logged in
+[2023.01.13-20.49.33:072][246]PIE: Play in editor total start time 14.252 seconds.
+[2023.01.13-20.50.31:368][477]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-20.50.37:518][215]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.410629
+[2023.01.13-20.50.43:368][917]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 63.359161
+[2023.01.13-20.50.47:393][400]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 4.603041
+[2023.01.13-20.50.50:751][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.50.50:751][800]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.50.50:751][800]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.50.50:751][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.50.50:759][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-20.50.50:760][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.50.50:777][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.50.50:779][800]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D40D0E6840), frame # 15800
+[2023.01.13-20.50.50:779][800]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D49A64C600), frame # 15800
+[2023.01.13-20.50.50:813][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.01.13-20.50.50:827][801]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.01.13-20.50.58:834][695]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.13-20.50.58:850][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EuphoriaComponent/EuphoriaComponent.EuphoriaComponent
+[2023.01.13-20.50.58:920][695]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 125 classes and 0 folders.
+[2023.01.13-20.50.59:315][695]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.13-20.50.59:343][696]LogSlate: Took 0.002998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.13-20.51.12:500][246]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.51.12:577][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.13-20.51.13:893][390]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.51.13:900][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.51.13:900][390]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:51:13 AM)
+[2023.01.13-20.51.13:931][390]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.51.28:058][390]LogPlayLevel: PIE: StaticDuplicateObject took: (14.127652s)
+[2023.01.13-20.51.28:058][390]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.51.28:058][390]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4E56E5A00), frame # 18390
+[2023.01.13-20.51.28:058][390]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4994D5E40), frame # 18390
+[2023.01.13-20.51.28:058][390]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2023.01.13-20.51.28:058][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (14.128371s)
+[2023.01.13-20.51.28:081][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.13-20.51.28:081][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.51.28:081][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.51.28:081][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.51.28:081][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.51.28:081][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.51.28:082][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.51.28:082][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.51.28:082][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.51.28:082][390]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.51.28:082][390]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.51.28:084][390]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.51.28:084][390]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.51.28:094][390]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.51.28:095][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.51.28:095][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.51.28:095][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.51.28:095][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.51.28:101][390]LogInit: FAudioDevice initialized.
+[2023.01.13-20.51.28:108][390]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.51.28:128][390]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 3) at 2023.01.13-15.51.28
+[2023.01.13-20.51.28:130][390]LogWorld: Bringing up level for play took: 0.021849
+[2023.01.13-20.51.28:130][390]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.01.13-20.51.28:134][390]PIE: Server logged in
+[2023.01.13-20.51.28:134][390]PIE: Play in editor total start time 14.235 seconds.
+[2023.01.13-20.51.43:255][ 15]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.113162
+[2023.01.13-20.51.49:197][728]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 25.843994
+[2023.01.13-20.51.50:389][871]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.808284
+[2023.01.13-20.51.51:021][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.51.51:021][941]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.51.51:021][941]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.51.51:022][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.51.51:031][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-20.51.51:033][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.51.51:044][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.51.51:087][941]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4E56E5A00), frame # 19941
+[2023.01.13-20.51.51:087][941]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4994D5E40), frame # 19941
+[2023.01.13-20.51.51:088][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.13-20.51.51:106][942]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.01.13-20.51.57:668][713]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.51.57:743][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.13-20.51.58:486][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EuphoriaComponent/EuphoriaComponent" FILE="../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset" SILENT=true
+[2023.01.13-20.51.58:525][787]LogSavePackage: Moving '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/EuphoriaComponent40BD84C943FBA9B2015D4F9B2363EF8F.tmp' to '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset'
+[2023.01.13-20.51.58:533][787]AssetCheck: New page: Asset Save: EuphoriaComponent
+[2023.01.13-20.51.58:533][787]LogContentValidation: Display: Validating Blueprint /Game/EuphoriaComponent/EuphoriaComponent.EuphoriaComponent
+[2023.01.13-20.57.30:805][875]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.57.30:890][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.13-20.57.31:343][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EuphoriaComponent/EuphoriaComponent" FILE="../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset" SILENT=true
+[2023.01.13-20.57.31:384][917]LogSavePackage: Moving '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/EuphoriaComponentEDF1BDB74814B0A6FFAA7EB48DE7479F.tmp' to '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset'
+[2023.01.13-20.57.31:391][917]AssetCheck: New page: Asset Save: EuphoriaComponent
+[2023.01.13-20.57.31:391][917]LogContentValidation: Display: Validating Blueprint /Game/EuphoriaComponent/EuphoriaComponent.EuphoriaComponent
+[2023.01.13-20.57.50:736][207]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.57.50:821][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.01.13-20.57.51:292][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EuphoriaComponent/EuphoriaComponent" FILE="../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset" SILENT=true
+[2023.01.13-20.57.51:331][249]LogSavePackage: Moving '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/EuphoriaComponent9B8B608B4C380E9EBC7253B14E2AF7DB.tmp' to '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset'
+[2023.01.13-20.57.51:341][249]AssetCheck: New page: Asset Save: EuphoriaComponent
+[2023.01.13-20.57.51:341][249]LogContentValidation: Display: Validating Blueprint /Game/EuphoriaComponent/EuphoriaComponent.EuphoriaComponent
+[2023.01.13-20.57.52:504][374]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.57.52:510][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.57.52:510][374]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:57:52 AM)
+[2023.01.13-20.57.52:540][374]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.58.08:054][374]LogPlayLevel: PIE: StaticDuplicateObject took: (15.513717s)
+[2023.01.13-20.58.08:055][374]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.58.08:055][374]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4F3AF3E00), frame # 44374
+[2023.01.13-20.58.08:055][374]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4F3AFEE80), frame # 44374
+[2023.01.13-20.58.08:055][374]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2023.01.13-20.58.08:055][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (15.514516s)
+[2023.01.13-20.58.08:080][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.58.08:081][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.58.08:081][374]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.58.08:081][374]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.58.08:083][374]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.58.08:083][374]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.58.08:094][374]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.58.08:094][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.58.08:094][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.58.08:094][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.58.08:095][374]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.58.08:100][374]LogInit: FAudioDevice initialized.
+[2023.01.13-20.58.08:108][374]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.58.08:130][374]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2023.01.13-15.58.08
+[2023.01.13-20.58.08:131][374]LogWorld: Bringing up level for play took: 0.022667
+[2023.01.13-20.58.08:131][374]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.01.13-20.58.08:135][374]PIE: Server logged in
+[2023.01.13-20.58.08:135][374]PIE: Play in editor total start time 15.625 seconds.
+[2023.01.13-20.58.09:841][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.58.09:841][545]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.58.09:841][545]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.58.09:842][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.58.09:845][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-20.58.09:847][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.58.09:868][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.58.09:872][545]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4F3AFEE80), frame # 44545
+[2023.01.13-20.58.09:872][545]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4F3AF3E00), frame # 44545
+[2023.01.13-20.58.09:905][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.01.13-20.58.09:933][546]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.01.13-20.58.35:255][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.13-20.58.38:903][712]LogSavePackage: Moving '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/ALS_DemoLevel_Auto19AB4B65C42D1948F752E76B91D31B592.tmp' to '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto1.umap'
+[2023.01.13-20.58.38:906][712]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 3.665
+[2023.01.13-20.58.38:906][712]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.665
+[2023.01.13-20.58.53:610][915]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.58.53:616][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.58.53:616][915]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:58:53 AM)
+[2023.01.13-20.58.53:640][915]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.59.08:620][915]LogPlayLevel: PIE: StaticDuplicateObject took: (14.979658s)
+[2023.01.13-20.59.08:621][915]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.59.08:621][915]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4F3FA8A00), frame # 44915
+[2023.01.13-20.59.08:621][915]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4E2DFF600), frame # 44915
+[2023.01.13-20.59.08:621][915]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2023.01.13-20.59.08:621][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (14.980712s)
+[2023.01.13-20.59.08:633][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.59.08:634][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.59.08:634][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.59.08:635][915]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.59.08:635][915]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.59.08:637][915]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.59.08:637][915]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.59.08:648][915]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.59.08:648][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.59.08:648][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.59.08:648][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.59.08:648][915]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.59.08:655][915]LogInit: FAudioDevice initialized.
+[2023.01.13-20.59.08:663][915]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.59.08:687][915]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2023.01.13-15.59.08
+[2023.01.13-20.59.08:688][915]LogWorld: Bringing up level for play took: 0.025074
+[2023.01.13-20.59.08:688][915]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.01.13-20.59.08:692][915]PIE: Server logged in
+[2023.01.13-20.59.08:692][915]PIE: Play in editor total start time 15.076 seconds.
+[2023.01.13-20.59.10:489][101]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-20.59.14:756][613]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_1] 3.817541
+[2023.01.13-20.59.14:911][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.59.14:911][627]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.59.14:911][627]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-20.59.14:912][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.59.14:918][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-20.59.14:920][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-20.59.14:933][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-20.59.14:945][627]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4E2DFF600), frame # 45627
+[2023.01.13-20.59.14:945][627]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4F3FA8A00), frame # 45627
+[2023.01.13-20.59.14:977][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.13-20.59.15:002][628]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.13-20.59.30:881][509]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.59.30:955][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.13-20.59.31:347][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EuphoriaComponent/EuphoriaComponent" FILE="../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset" SILENT=true
+[2023.01.13-20.59.31:386][542]LogSavePackage: Moving '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Saved/EuphoriaComponentA007DDDE4796FBBCFE9450AE9842473A.tmp' to '../../../../../../Users/minec/Documents/GitHub/UE4.25Euphoria/Content/EuphoriaComponent/EuphoriaComponent.uasset'
+[2023.01.13-20.59.31:395][542]AssetCheck: New page: Asset Save: EuphoriaComponent
+[2023.01.13-20.59.31:395][542]LogContentValidation: Display: Validating Blueprint /Game/EuphoriaComponent/EuphoriaComponent.EuphoriaComponent
+[2023.01.13-20.59.39:709][517]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-20.59.39:791][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.01.13-20.59.40:771][622]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-20.59.40:778][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-20.59.40:778][622]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 10:59:40 AM)
+[2023.01.13-20.59.40:811][622]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-20.59.54:904][622]LogPlayLevel: PIE: StaticDuplicateObject took: (14.092993s)
+[2023.01.13-20.59.54:905][622]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-20.59.54:905][622]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4E9155E00), frame # 48622
+[2023.01.13-20.59.54:905][622]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4C4BC0680), frame # 48622
+[2023.01.13-20.59.54:905][622]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2023.01.13-20.59.54:905][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (14.093719s)
+[2023.01.13-20.59.54:927][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-20.59.54:928][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-20.59.54:928][622]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-20.59.54:928][622]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-20.59.54:931][622]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-20.59.54:931][622]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-20.59.54:942][622]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-20.59.54:942][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-20.59.54:942][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-20.59.54:942][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-20.59.54:943][622]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-20.59.54:948][622]LogInit: FAudioDevice initialized.
+[2023.01.13-20.59.54:955][622]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-20.59.54:975][622]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2023.01.13-15.59.54
+[2023.01.13-20.59.54:976][622]LogWorld: Bringing up level for play took: 0.021204
+[2023.01.13-20.59.54:976][622]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.01.13-20.59.54:980][622]PIE: Server logged in
+[2023.01.13-20.59.54:981][622]PIE: Play in editor total start time 14.203 seconds.
+[2023.01.13-21.00.02:456][497]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_1] 2.50754
+[2023.01.13-21.00.07:990][161]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_2] 6.483094
+[2023.01.13-21.00.08:022][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.00.08:022][161]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-21.00.08:022][161]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-21.00.08:022][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.00.08:032][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-21.00.08:034][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.00.08:055][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.00.08:059][161]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4C4BC0680), frame # 50161
+[2023.01.13-21.00.08:059][161]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4E9155E00), frame # 50161
+[2023.01.13-21.00.08:092][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.13-21.00.08:116][162]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.13-21.00.14:327][889]BlueprintLog: New page: Compile EuphoriaComponent
+[2023.01.13-21.00.14:397][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.13-21.00.15:672][ 20]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-21.00.15:680][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-21.00.15:680][ 20]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 11:00:15 AM)
+[2023.01.13-21.00.15:710][ 20]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-21.00.30:081][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (14.369486s)
+[2023.01.13-21.00.30:082][ 20]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-21.00.30:082][ 20]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4F6BA1200), frame # 51020
+[2023.01.13-21.00.30:082][ 20]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4E6B3DD00), frame # 51020
+[2023.01.13-21.00.30:082][ 20]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.01.13-21.00.30:082][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (14.370553s)
+[2023.01.13-21.00.30:100][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-21.00.30:102][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-21.00.30:102][ 20]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-21.00.30:102][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-21.00.30:104][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-21.00.30:104][ 20]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-21.00.30:115][ 20]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-21.00.30:115][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-21.00.30:115][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-21.00.30:115][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-21.00.30:116][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-21.00.30:120][ 20]LogInit: FAudioDevice initialized.
+[2023.01.13-21.00.30:128][ 20]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-21.00.30:151][ 20]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2023.01.13-16.00.30
+[2023.01.13-21.00.30:153][ 20]LogWorld: Bringing up level for play took: 0.024711
+[2023.01.13-21.00.30:153][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.01.13-21.00.30:157][ 20]PIE: Server logged in
+[2023.01.13-21.00.30:158][ 20]PIE: Play in editor total start time 14.479 seconds.
+[2023.01.13-21.00.40:662][693]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.00.40:870][718]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.00.46:419][368]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_1] 2.825
+[2023.01.13-21.00.52:478][ 95]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_2] 7.074866
+[2023.01.13-21.00.53:251][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.00.53:252][185]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-21.00.53:252][185]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-21.00.53:252][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.00.53:258][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-21.00.53:260][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.00.53:282][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.00.53:286][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4E6B3DD00), frame # 53185
+[2023.01.13-21.00.53:286][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4F6BA1200), frame # 53185
+[2023.01.13-21.00.53:318][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.01.13-21.00.53:343][186]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.01.13-21.00.54:069][262]LogActorFactory: Actor Factory created Cube
+[2023.01.13-21.00.54:578][323]LogActorFactory: Actor Factory created Cube
+[2023.01.13-21.00.55:419][416]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.13-21.00.55:426][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.13-21.00.55:426][416]PIE: New page: PIE session: ALS_DemoLevel (Jan 13, 2023, 11:00:55 AM)
+[2023.01.13-21.00.55:450][416]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-21.01.09:023][416]LogPlayLevel: PIE: StaticDuplicateObject took: (13.572127s)
+[2023.01.13-21.01.09:024][416]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2023.01.13-21.01.09:024][416]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D4E9F13E00), frame # 53416
+[2023.01.13-21.01.09:024][416]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D4F6D54B80), frame # 53416
+[2023.01.13-21.01.09:024][416]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2023.01.13-21.01.09:024][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (13.573078s)
+[2023.01.13-21.01.09:038][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.13-21.01.09:040][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.13-21.01.09:040][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.13-21.01.09:040][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.13-21.01.09:041][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.13-21.01.09:041][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.13-21.01.09:041][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.13-21.01.09:041][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.13-21.01.09:041][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.13-21.01.09:041][416]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.13-21.01.09:041][416]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.13-21.01.09:043][416]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.13-21.01.09:043][416]LogAudioMixer: Display: 1: FrontRight
+[2023.01.13-21.01.09:054][416]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.13-21.01.09:054][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.13-21.01.09:054][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.13-21.01.09:054][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.13-21.01.09:054][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.13-21.01.09:060][416]LogInit: FAudioDevice initialized.
+[2023.01.13-21.01.09:068][416]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2023.01.13-21.01.09:091][416]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2023.01.13-16.01.09
+[2023.01.13-21.01.09:093][416]LogWorld: Bringing up level for play took: 0.024827
+[2023.01.13-21.01.09:093][416]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.13-21.01.09:097][416]PIE: Server logged in
+[2023.01.13-21.01.09:098][416]PIE: Play in editor total start time 13.672 seconds.
+[2023.01.13-21.01.09:960][493]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_L90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.01.23:655][136]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_2] 6.952099
+[2023.01.13-21.01.25:940][410]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_1] 2.90946
+[2023.01.13-21.01.33:192][280]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.58402
+[2023.01.13-21.01.33:618][331]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_4] 8.333372
+[2023.01.13-21.01.34:805][473]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_5] 2.783375
+[2023.01.13-21.01.34:805][473]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.783375
+[2023.01.13-21.01.38:652][933]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_4] 56.718258
+[2023.01.13-21.01.39:046][980]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 18.289307
+[2023.01.13-21.01.39:163][994]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_5] 22.032814
+[2023.01.13-21.01.40:400][142]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_4] 4.791766
+[2023.01.13-21.01.41:335][254]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 2.757166
+[2023.01.13-21.01.43:102][466]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 9.757643
+[2023.01.13-21.01.48:037][ 58]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.274039
+[2023.01.13-21.01.49:071][182]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_to_N' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.01.50:428][344]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Rotate_R90' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.01.51:958][527]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_6] 4.756731
+[2023.01.13-21.01.56:852][113]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_6] 6.841868
+[2023.01.13-21.02.00:243][515]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_7] 7.00338
+[2023.01.13-21.02.01:957][716]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_7] 2.976337
+[2023.01.13-21.02.05:127][ 85]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.05:127][ 85]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.05:173][ 90]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.05:932][176]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_9.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.05:932][176]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_9.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.07:085][309]LogBlueprintUserMessages: [ALS_AnimMan_CharacterBP_C_0] 3.681244
+[2023.01.13-21.02.07:110][312]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel:PersistentLevel.ALS_AnimMan_CharacterBP_C_9.CharacterMesh0.ALS_AnimBP_C_0'
+[2023.01.13-21.02.12:522][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.02.12:522][937]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2023.01.13-21.02.12:522][937]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.01.13-21.02.12:523][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.02.12:530][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.13-21.02.12:531][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.13-21.02.12:551][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.13-21.02.12:555][937]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D4F6D54B80), frame # 60937
+[2023.01.13-21.02.12:556][937]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D4E9F13E00), frame # 60937
+[2023.01.13-21.02.12:587][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.13-21.02.12:608][938]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.13-21.02.15:368][ 70]LogSlate: Window 'EuphoriaComponent' being destroyed
